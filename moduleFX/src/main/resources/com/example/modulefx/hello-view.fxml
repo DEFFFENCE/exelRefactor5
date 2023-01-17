@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Button?>
+<VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.example.modulefx.Controller">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+    </padding>
+    <Label fx:id="finaltext"/>
+    <Label fx:id="filepath1"/>
+    <Button text="Выбрать файл 1" onAction="#handleButtonAction1"/>
+    <Label fx:id="filepath2"/>
+    <Button text="Выбрать файл 2" onAction="#handleButtonAction2"/>
+    <Label fx:id="filepath3"/>
+    <Button text="Выбрать файл 3" onAction="#handleButtonAction3"/>
+    <Button text="ЖМИ!" onAction="#sendMsg"/>
+</VBox>
+

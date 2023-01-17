@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact name="exelRefactor5:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/exelRefactor5_jar</output-path>
+    <root id="root">
+      <element id="archive" name="exelRefactor5.jar">
+        <element id="module-output" name="exelRefactor5" />
+        <element id="module-output" name="moduleFX" />
+        <element id="module-output" name="moduleOperation" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="Maven: com.github.virtuald:curvesapi:1.06" />
+        <element id="library" level="project" name="Maven: com.zaxxer:SparseBitSet:1.2" />
+        <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.13" />
+        <element id="library" level="project" name="Maven: org.apache.commons:commons-collections4:4.4" />
+        <element id="library" level="project" name="Maven: org.apache.commons:commons-compress:1.19" />
+        <element id="library" level="project" name="Maven: org.apache.commons:commons-math3:3.6.1" />
+        <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml-schemas:4.1.2" />
+        <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml:4.1.2" />
+        <element id="library" level="project" name="Maven: org.apache.poi:poi:4.1.2" />
+        <element id="library" level="project" name="Maven: org.apache.xmlbeans:xmlbeans:3.1.0" />
+        <element id="library" level="project" name="Maven: org.openjfx:javafx-base:19" />
+        <element id="library" level="project" name="Maven: org.openjfx:javafx-base:mac:19" />
+        <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:19" />
+        <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:mac:19" />
+        <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:19" />
+        <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:mac:19" />
+        <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:19" />
+        <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:mac:19" />
+      </element>
+    </root>
+  </artifact>
+</component>

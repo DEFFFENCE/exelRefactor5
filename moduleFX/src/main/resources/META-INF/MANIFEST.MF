@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: com.example.modulefx.Application
+Class-Path: javafx-base-19.jar javafx-controls-19-mac.jar xmlbeans-3.1.0
+ .jar commons-collections4-4.4.jar javafx-fxml-19-mac.jar poi-ooxml-4.1.
+ 2.jar javafx-graphics-19-mac.jar javafx-controls-19.jar commons-codec-1
+ .13.jar poi-4.1.2.jar javafx-fxml-19.jar poi-ooxml-schemas-4.1.2.jar Sp
+ arseBitSet-1.2.jar commons-math3-3.6.1.jar javafx-graphics-19.jar javaf
+ x-base-19-mac.jar curvesapi-1.06.jar commons-compress-1.19.jar
+
